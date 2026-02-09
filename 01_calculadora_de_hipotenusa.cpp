@@ -1,3 +1,6 @@
+// 09_02_2026 prog01: calculadora_de_hipotenusa
+// por yuuuchua
+
 #include <iostream>
 #include <cmath>
 
